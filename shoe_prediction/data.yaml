@@ -1,0 +1,6 @@
+train: F:/malathi/AI/DEEP_LEARNING/Shoe_detect_2/train/images
+val: F:/malathi/AI/DEEP_LEARNING/Shoe_detect_2/val/images
+test: F:/malathi/AI/DEEP_LEARNING/Shoe_detect_2/test/images
+
+nc: 3
+names: ["No_SHOE", "Shoe", "Slipper"]
